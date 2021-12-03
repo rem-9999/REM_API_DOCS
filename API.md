@@ -6,7 +6,7 @@
 ```css
 https://remapi.xyz/
 ```
-request, node-fetch, ajax 모든 요청 가능합니다.
+request, node-fetch, ajax 모든 요청 처리가 가능합니다.
 
 
 # 버전
