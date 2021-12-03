@@ -2,19 +2,11 @@
 렘 API의 엔드포인트 및 사용 방법을 안내합니다.
 
 # BASE_URL
-본 API 의 BASE URL 은 2개로 나뉩니다.
-HTTP 프로토콜을 사용하는 API BASE URL 은 아래와 같습니다.
+본 API의 BASE URL 은 아래와 같습니다.
 ```css
-http://api.rem9999.xyz/
+https://remapi.xyz/
 ```
-HTTPS 프로토콜을 사용하는 API BASE URL 은 아래와 같습니다.
-```css
-https://218.147.251.17:2/
-```
-> __```2개로 나누는 이유```__
-> HTTPS 프로토콜에서 HTTP 프로토콜에 requset 요청을 CROS 정책으로 인해 전송하지 못합니다.
-> HTTPS 프로토콜은 jquery / 웹 개발 하시는분들이 사용하시면 됩니다.
-> 디스코드 봇 및 node-fetch, requset 와 같은 모듈 사용하시는 분들은 HTTP 프로토콜 사용하셔도 상관 없습니다.
+request, node-fetch, ajax 모든 요청 가능합니다.
 
 
 # 버전
