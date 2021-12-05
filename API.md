@@ -4,7 +4,7 @@
 # BASE_URL
 본 API의 BASE URL 은 아래와 같습니다.
 ```css
-https://remapi.xyz:80/
+https://remapi.xyz:02/
 ```
 request, node-fetch, ajax 모든 요청 처리가 가능합니다.
 __요청시 BASE URL에 반드시 80포트를 포함해야합니다.__
